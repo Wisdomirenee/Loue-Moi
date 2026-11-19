@@ -1,11 +1,23 @@
 # Loue-Moi
- LOUE Moi est une plateforme web intruitive et moderne qui simplifie la recherche, la demande de disponibilité et la réservation de lieux d'exception pour tous vos événements, qu'ils soient privés ou professionnels( mariage, séminaires, annniversaire, conférences...)
+Loue-moi est une plateforme web intuitive et moderne qui simplifie la recherche, la demande de disponibilité et la réservation de lieux d'exception pour tous vos événements, qu'ils soient privés ou professionnels(mariages, séminaires, anniversaires, conférences...).
 
- La plateforme permet aux utilisateurs de rechercher des lieux selon la localisation, le type d’événement, la capacité et le budget, de consulter leurs informations et disponibilités, puis d’effectuer une demande de réservation.
+## Fonctionnalités principales
 
-Elle propose également un espace utilisateur pour gérer les réservations, les favoris, l’historique et les notifications, ainsi qu’un espace propriétaire permettant de gérer les lieux, disponibilités et demandes de réservation.
+Pour les utilisateurs
+- Recherche de lieux par localisation , type d'évènement, capacité et budget;
+- Fiche détaillée de chaque lieu avec ses disponibilités;
+- Demande de réservation;
+- Espace personnel : réservations, favoris, historique et notifications.
 
+Pour les propriétaires
+- Gestion des lieux et de leurs disponibilités;
+- Suivi des demandes de réservation.
 
-Niamba Niamba Irénée Cyrusse
-Traoré Kadiatou
-Allebi Anne-Samuelle
+## Technologies 
+- HTML, CSS, JavaScript
+- Supabase
+
+## Membres de l'équipe
+- Niamba Niamba Irénée Cyrusse
+- Traoré Kadiatou
+- Allebi Anne-Samuelle
