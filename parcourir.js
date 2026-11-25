@@ -1,8 +1,9 @@
 // Données de test (plus tard, elles viendront de Supabase)
 const espaces = [
-  { id: 1, nom: "Salle de Réception Élégance", ville: "Chicoutimi", type: "mariage", capacite: 200, prix: 150, image: "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?auto=format&fit=crop&w=600&q=80" },
-  { id: 2, nom: "Espace Design & Conférence", ville: "Jonquière", type: "conference", capacite: 50, prix: 85, image: "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&w=600&q=80" },
-  { id: 3, nom: "Lounge & Terrasse Panoramique", ville: "La Baie", type: "anniversaire", capacite: 80, prix: 200, image: "https://images.unsplash.com/photo-1527529482837-4698179dc6ce?auto=format&fit=crop&w=600&q=80" }
+  {id : 1, nom : "Salle de Réception Élégance", ville: "Chicoutimi", type: "mariage", capacite: 200, prix: 150, image: "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?auto=format&fit=crop&w=600&q=80" },
+  {id : 2, nom : "Espace Design & Conférence", ville: "Jonquière", type: "conference", capacite: 50, prix: 85, image: "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&w=600&q=80" },
+  {id : 3, nom : "Lounge & Terrasse Panoramique", ville: "La Baie", type: "anniversaire", capacite: 80, prix: 200, image: "https://images.unsplash.com/photo-1527529482837-4698179dc6ce?auto=format&fit=crop&w=600&q=80" },
+  {id : 4, nom : "Salle aménagée avec vue sur le lac", ville : "Chicoutimi", type : "mariage", capacite : 190, prix : 200, image : "https://images.unsplash.com/photo-1661282024037-fb87a309ef61?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"}
 ];
 
 // Éléments de la page
